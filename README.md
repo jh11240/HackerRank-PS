@@ -1,1 +1,1 @@
-C++ HackerRank 풀이
+# C++ HackerRank 풀이
